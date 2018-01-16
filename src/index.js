@@ -6,7 +6,7 @@ import SearchBar from './components/search_bar';
 import VideoList from './components/video_list';
 import VideoDetail from './components/video_detail';
 
-const youTubeAPI_KEY = 'AIzaSyBpcBERmpT4_aD3YYLcXG0OaKtUg4iBlnA'
+const youTubeAPI_KEY = '#######################'
 
 
 // create a new component, it should produce HTML
